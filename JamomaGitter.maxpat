@@ -1447,7 +1447,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 435.0, 289.0, 304.0, 19.0 ],
-													"text" : "pack cd path \\; git clone git://github.com/tap/Jamoma.git"
+													"text" : "pack cd path \\; git clone git://github.com/jamoma/Jamoma.git"
 												}
 
 											}
